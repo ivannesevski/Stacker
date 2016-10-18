@@ -1,7 +1,7 @@
 Created in Quatus II 15.0 for the Altera DE1-SoC FPGA board.
-   The graphics are displayed via the vga_adapter.
+The graphics are displayed via the vga_adapter.
 
-###INSTRUCTIONS:
+###INSTRUCTIONS
     **KEYS**
     key[0] -> Reset game
     key[1] -> Start game
